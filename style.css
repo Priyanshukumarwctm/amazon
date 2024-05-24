@@ -158,7 +158,7 @@
     display: flex;
     justify-content: center;
     font-size: 0.85rem;
-    width: 80%;
+    width: 85%;
     margin-bottom: 25px;
 }
 
@@ -177,7 +177,7 @@
 
 .box {
     height: 380px;
-    width: 23%;
+    width: 310px;
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
@@ -209,7 +209,7 @@
 
 .box-img-section img {
     height: 108px;
-    width: 120px;
+    width: 110px;
     margin-left: 1rem;
     
     
