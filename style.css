@@ -203,14 +203,14 @@
     width: 100%;
     margin-top: 15px;
     display: flex;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     
 }
 
 .box-img-section img {
-    height: 108px;
+    height: 110px;
     width: 110px;
-    margin-left: 15px;
     
     
 }
